@@ -1,0 +1,49 @@
+1;Quien es el autor de la frase: Pienso, luego existo?
+2;Cuantos decimales tiene el numero pi?
+3;En que periodo de la prehistoria fue descubierto el fuego?
+4;Cual es la montania mas alta del continente americano?
+5;En que anio se fundo Racing Club de Avellaneda?
+6;En que anio Racing salio campeon del mundo?
+7;Edson Arantes do Nascimento es mejor conocido como:
+8;Cual fue el pais campeon del mundo de futbol en 2022?
+9;Que animal es el mejor amigo del hombre?
+10;En que continente queda Republica del Congo?
+11;Cual es el metal cuyo simbolo quimico es Au?
+12;Quien salio campeon de la libertadores en el 2018?
+13;A quien se le atribuye el descubrimiento de America?
+14;Quien fue el maestro de Platon?
+15;Donde se encuentra el Machu Picchu?
+16;Quien es el maximo ganador del balon de oro?
+17;En que pais se jugo el mundial de futbol en 2022?
+18;De que pais fue presidente Nelson Mandela?
+19;Cual fue el presidente electo en Argentina en 2019?
+20;Que equipo es el mayor ganador de la Champions League?
+21;Cuantos dias tiene un anio bisiesto?
+22;Cual jugador es el maximo idolo del Barcelona Fc?
+23;Que videojuego se trata de un mundo de cubos?
+24;A que pais Maradona le hizo El gol del Siglo?
+25;A que pais pertenece el equipo de futbol Ajax?
+26;En que equipo argentino jugaba Diego Alberto Milito?
+27;A que equipo se lo denomina La Academia?
+28;De que equipo es idolo Juan Roman Riquelme?
+29;Quien es el actual campeon de Formula 1?
+30;Cual de estos equipos no es Ingles?
+31;Cual de estos paises no forma parte del Reino Unido?
+32;A que pais pertenece la conocida Casa Rosada?
+33;Cual era la nacionalidad de Pablo Neruda?
+34;Cuantas peliculas posee actualmente la saga Star Wars?
+35;Como era conocido Darth Vader anteriormente?
+36;Que empresa compro los derechos de Star Wars?
+37;En que anio salio la primer pelicula de Star Wars?
+38;En que pais se encuentra la torre de pisa?
+39;Cuantas veces se jugo un mundial de futbol en Brasil?
+40;Que deporte practicaba Juan Martin del Potro?
+41;Cuantas estrellas hay en la bandera de Camerun?
+42;Cuantos estados tiene Estados Unidos?
+43;Quien es el Dios del trueno en la mitologia Nordica?
+44;Quien es el Dios del inframundo en la mitologia Griega?
+45;En donde se encuentra el Rio Amazonas?
+46;La bandera de cual de estos paises no tiene estrellas?
+47;En que pais se encuentra la Torre de Belem?
+48;A que empresa pertenece la consola llamada PlayStation?
+49;En que anio declaro Chile su independencia de Espania?

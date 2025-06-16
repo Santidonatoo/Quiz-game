@@ -1,0 +1,196 @@
+1;Platon;1;0
+2;Galileo Galilei;1;0
+3;Socrates;1;0
+4;Descartes;1;1
+1;Cien;2;0
+2;Mil;2;0
+3;Veinte;2;0
+4;Infinitos;2;1
+1;Neolitico;3;0
+2;Edad de piedra;3;0
+3;Edad media;3;0
+4;Paleolitico;3;1
+1;Monte everest;4;0
+2;Pico Bolivar;4;0
+3;Monte Fuji;4;0
+4;Aconcagua;4;1
+1;1902;5;0
+2;1943;5;0
+3;1913;5;0
+4;1903;5;1
+1;1988;6;0
+2;1945;6;0
+3;1966;6;0
+4;1967;6;1
+1;Einstein;7;0
+2;Copernico;7;0
+3;Messi;7;0
+4;Pele;7;1
+1;Francia;8;0
+2;Alemania;8;0
+3;Croacia;8;0
+4;Argentina;8;1
+1;Gato;9;0
+2;Pajaro;9;0
+3;Oso;9;0
+4;Perro;9;1
+1;America;10;0
+2;Europa;10;0
+3;Asia;10;0
+4;Africa;10;1
+1;Aluminio;11;0
+2;Actinio;11;0
+3;Arsenico;11;0
+4;Oro;11;1
+1;Boca;12;0
+2;Velez;12;0
+3;Racing;12;0
+4;River;12;1
+1;Napoleon;13;0
+2;Shakespeare;13;0
+3;Belgrano;13;0
+4;Colon;13;1
+1;Aristoteles;14;0
+2;Zeus;14;0
+3;Diogenes;14;0
+4;Socrates;14;1
+1;Argentina;15;0
+2;Mexico;15;0
+3;Colombia;15;0
+4;Peru;15;1
+1;Pele;16;0
+2;Ronaldo;16;0
+3;Maradona;16;0
+4;Messi;16;1
+1;Brasil;17;0
+2;Rusia;17;0
+3;Sudafrica;17;0
+4;Qatar;17;1
+1;Libia;18;0
+2;Guinea;18;0
+3;Filipinas;18;0
+4;Sudafrica;18;1
+1;Macri;19;0
+2;Milei;19;0
+3;Larreta;19;0
+4;Alberto Fdez;19;1
+1;Barcelona;20;0
+2;Bayer Munich;20;0
+3;Ajax;20;0
+4;Real Madrid;20;1
+1;365 dias;21;0
+2;340 dias;21;0
+3;364 dias;21;0
+4;366 dias;21;1
+1;Maradona;22;0
+2;Neymar;22;0
+3;Cruyff;22;0
+4;Messi;22;1
+1;Gta 5;23;0
+2;Fifa;23;0
+3;Fortnite;23;0
+4;Minecraft;23;1
+1;Brasil;24;0
+2;Italia;24;0
+3;Dinamarca;24;0
+4;Inglaterra;24;1
+1;Italia;25;0
+2;Francia;25;0
+3;Alemania;25;0
+4;Holanda;25;1
+1;Independiente;26;0
+2;Velez;26;0
+3;Boca;26;0
+4;Racing;26;1
+1;River;27;0
+2;Boca;27;0
+3;Lanus;27;0
+4;Racing;27;1
+1;River;28;0
+2;Racing;28;0
+3;Independiente;28;0
+4;Boca;28;1
+1;Hamilton;29;0
+2;Alonso;29;0
+3;Leclerc;29;0
+4;Verstappen;29;1
+1;Arsenal;30;0
+2;Tottenham;30;0
+3;Liverpool;30;0
+4;Newells;30;1
+1;Inglaterra;31;0
+2;Gales;31;0
+3;Irlanda;31;0
+4;Dinamarca;31;1
+1;Uruguay;32;0
+2;Estados Unidos;32;0
+3;Brasil;32;0
+4;Argentina;32;1
+1;Argentina;33;0
+2;Uruguay;33;0
+3;Paraguay;33;0
+4;Chile;33;1
+1;3 Peliculas;34;0
+2;4 Peliculas;34;0
+3;6 Peliculas;34;0
+4;9 Peliculas;34;1
+1;Luke Skywalker;35;0
+2;Yoda;35;0
+3;Palpatine;35;0
+4;Anakin Skywalker;35;1
+1;Netflix;36;0
+2;HBO;36;0
+3;Paramount;36;0
+4;Disney;36;1
+1;1999;37;0
+2;2005;37;0
+3;2015;37;0
+4;1977;37;1
+1;Estados Unidos;38;0
+2;Espania;38;0
+3;Francia;38;0
+4;Italia;38;1
+1;1 vez;39;0
+2;3 veces;39;0
+3;4 veces;39;0
+4;2 veces;39;1
+1;Futbol;40;0
+2;Paddel;40;0
+3;Rugby;40;0
+4;Tenis;40;1
+1;Tres;41;0
+2;Quince;41;0
+3;Cinco;41;0
+4;Una;41;1
+1;37;42;0
+2;15;42;0
+3;5;42;0
+4;50;42;1
+1;Odin;43;0
+2;Loki;43;0
+3;Frigg;43;0
+4;Thor;43;1
+1;Zeus;44;0
+2;Poseidon;44;0
+3;Ares;44;0
+4;Hades;44;1
+1;Europa;45;0
+2;Asia;45;0
+3;Africa;45;0
+4;Sudamerica;45;1
+1;Panama;46;0
+2;Australia;46;0
+3;Chile;46;0
+4;Ucrania;46;1
+1;Turquia;47;0
+2;Japon;47;0
+3;Noruega;47;0
+4;Portugal;47;1
+1;Microsoft;48;0
+2;Philips;48;0
+3;Samsung;48;0
+4;Sony;48;1
+1;1776;49;0
+2;1935;49;0
+3;1845;49;0
+4;1818;49;1
